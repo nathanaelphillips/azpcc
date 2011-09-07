@@ -1,5 +1,1 @@
-= TWENTY ELEVEN =
-
-* by the WordPress team, http://wordpress.org/
-
-== ABOUT TWENTY ELEVEN ==
+AZPCC Theme for Wordpress; by Nathanael Phillips
